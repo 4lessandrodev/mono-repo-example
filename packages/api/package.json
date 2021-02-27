@@ -1,0 +1,9 @@
+{
+  "name": "@mono-repo/api",
+  "version": "1.0.0",
+  "description": "api backend",
+  "main": "app.js",
+  "author": "Alessandro",
+  "license": "MIT",
+  "private": false
+}

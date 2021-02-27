@@ -1,0 +1,12 @@
+{
+  "name": "@mono-repo/web",
+  "version": "1.0.0",
+  "description": "Site frontend",
+  "main": "index.js",
+  "author": "Alessandro",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@mono-repo/api":"1.0.0"
+  }
+}
